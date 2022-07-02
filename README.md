@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fathima Shazina, Undergraduate at UoM, 
+- 👋 Hi, I’m Fathima Shazina, Undergraduate at UoM, Faculty of IT
 - 👀 I’m interested in web development and learning technologies
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/fathima-shazina-5158821b2/?originalSubdomain=lk)
 <!---
